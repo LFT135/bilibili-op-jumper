@@ -1,7 +1,7 @@
 # B站一键跳过番剧片头 (浏览器扩展版)
 
 ## 简介
-
+![image](https://github.com/LFT135/bilibili-op-jumper/blob/main/inro.png)
 这是一个可以在 Chrome / Edge 浏览器中直接安装的扩展程序，功能与原 Tampermonkey 用户脚本完全一致：
 
 - 在 B站番剧播放页和视频页自动生效
